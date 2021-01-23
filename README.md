@@ -1,2 +1,1 @@
-# RPCSP
-Runtime Property Checking on Scratch Programs
+# RPCSP (Runtime Property Checking on Scratch Programs)
